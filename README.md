@@ -8,7 +8,7 @@ This particular business case focuses on the operations of Target in Brazil and 
 
 [Dataset link](https://drive.google.com/drive/folders/1zA-ChERZdS0KQNWjIPKUMtYw5Flu1OUv?usp=drive_link)
 
-The data is available in 8 csv files:
+The data is available in 8 CSV files:
 - customers.csv
 - sellers.csv
 - order_items.csv
